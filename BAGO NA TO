@@ -1,0 +1,86 @@
+
+
+<html>
+	<head>
+
+		<br>
+		<br>
+		<br>
+		<br>
+
+		<a name="Hello!">
+		<center><p><font size = "25" font color-"black">Hello!</font></p>
+		<p><font size = "18" font color-"black">I've been expecting you :)</font></p></center>
+	</head>
+	
+	<body>
+
+	<br>
+	<br>
+
+	<ol>
+		<p><font size = "12" font color-"black">Table of Contents</p></font>
+		<p><li><a href="#About Me!">About Me!</a></li></p>
+		<p><li><a href="#My Favorite Video">My Favorite Video</a></li></p>
+		<p><li><a href="#My Favorite Song">My Favorite Song</a></li></p>
+		<p><li><a href="#My Interests!">My Interests</a></li></p>
+		<p><li><a href="file:///C:/Users/user/Desktop/BAGO%20NA%20TO%202" target="_blank">Academic Life</a></p>
+		<p><li><a href="file:///C:/Users/user/Desktop/BAGO%20NA%20TO%203">Contact me</a></li></p>
+    </ol>
+
+    <br>
+    <br>
+
+    	<a name="About Me!">
+		<center><p><font size = "12" font color-"black">About Me!</font></p>
+		<h2>Adrian</h2>
+        <img src="ADRIAN.png" alt="IAN" style="width:650px;height:380px"></center>
+        </a> 
+
+    <br>
+    <br>
+
+    	<a name="My Favorite Video">
+        <center><p><font size = "12" font color-"black">My Favorite Video</font></p>
+        <p>NBA 2K15</p></center>
+        <center><embed width="630" height="580"
+        src="https://www.youtube.com/v/watch?v=BTCFKaq30QM">
+        </embed></center>
+        
+        </a>
+
+     <br>
+     <br>
+
+     	<a name="My Favorite Song">
+     	<center><p><font size = "12" font color-"black">My Favorite Song</font></p>
+     		<p>Going down for Real</p>
+     		<audio controls>
+  <source src="G.D.F.R.mp3" type="audio/mp3">
+  <source src="G.D.F.R.mp3" type="audio/mp3">
+Your browser does not support the audio element.
+</audio>
+        </center>
+        </a>
+
+    <br>
+    <br>
+
+    	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a name="My Interests!">
+    	<p><font size = "8" font color-"black">My Interests!</font></p>
+    	<ul>
+  		&nbsp;<li>Basketball</li>
+  	    &nbsp;<li>Aviation</li>
+  		&nbsp;<li>Math</li>
+  		&nbsp;<li>Bodybuildng</li>
+		</ul>
+
+	<br>
+	<br>
+
+
+		<p><center><a href="#Hello!">Back to Home</a></center></p>
+
+
+</body>
+</html>
